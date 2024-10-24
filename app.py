@@ -1,3 +1,6 @@
+# pip install torch torchvision transformers opencv-python
+
+
 import cv2
 import pygame
 import threading
